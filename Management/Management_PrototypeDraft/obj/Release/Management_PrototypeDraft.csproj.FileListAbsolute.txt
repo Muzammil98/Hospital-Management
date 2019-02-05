@@ -1,0 +1,14 @@
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Release\Management_PrototypeDraft.exe.config
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Release\Management_PrototypeDraft.exe
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Release\Management_PrototypeDraft.pdb
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.AppointmentsForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.DoctorForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.Form1.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.MedicalStoreForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.PatientsForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.Properties.Resources.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.csproj.GenerateResource.cache
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.csproj.CoreCompileInputs.cache
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.exe
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.pdb
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Release\Management_PrototypeDraft.Login.resources

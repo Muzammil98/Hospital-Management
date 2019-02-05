@@ -1,0 +1,30 @@
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.exe.config
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.exe
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.pdb
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csprojAssemblyReference.cache
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Form1.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Properties.Resources.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csproj.GenerateResource.cache
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csproj.CoreCompileInputs.cache
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.exe
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.pdb
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.DoctorForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.AppointmentsForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.MedicalStoreForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.PatientsForm.resources
+C:\Users\Usama\source\repos\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Login.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.exe.config
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.exe
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\bin\Debug\Management_PrototypeDraft.pdb
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csprojAssemblyReference.cache
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.AppointmentsForm.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.DoctorForm.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Form1.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Login.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.MedicalStoreForm.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.PatientsForm.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.Properties.Resources.resources
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csproj.GenerateResource.cache
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.csproj.CoreCompileInputs.cache
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.exe
+F:\Muz_Projects\Hospital Management 2.5\Management_PrototypeDraft\Management_PrototypeDraft\obj\Debug\Management_PrototypeDraft.pdb
